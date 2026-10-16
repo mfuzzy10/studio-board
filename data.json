@@ -1,0 +1,88 @@
+{
+  "updated": "2026-10-16T18:38:00-04:00",
+  "followers": 7212,
+  "ideas": [
+    {
+      "title": "Flying Tesla Roadster",
+      "postBy": "2026-10-17T12:00:00-04:00",
+      "img": "img/roadster.jpg",
+      "rank": 1
+    },
+    {
+      "title": "Meta's Mac AI model",
+      "postBy": "2026-10-17T21:00:00-04:00",
+      "img": "img/muse.jpg",
+      "rank": 2
+    },
+    {
+      "title": "NVIDIA RTX Spark laptops",
+      "postBy": "2026-10-18T21:00:00-04:00",
+      "img": "img/rtx.jpg",
+      "rank": 3
+    },
+    {
+      "title": "Apple HomeView",
+      "postBy": "2026-10-18T21:00:00-04:00",
+      "img": "img/homeview.jpg",
+      "rank": 9
+    },
+    {
+      "title": "Razer Sumi reveal",
+      "postBy": "2026-10-20T18:00:00-04:00",
+      "img": "img/sumi.jpg",
+      "rank": 15
+    }
+  ],
+  "reels": [
+    {
+      "title": "Arc Pulse phone case",
+      "plays": 163878,
+      "url": "https://www.instagram.com/matt.j.robb/reel/DU1i1LlAsEF/"
+    },
+    {
+      "title": "ROG Ally at Raptors game",
+      "plays": 31700,
+      "url": "https://www.instagram.com/matt.j.robb/reel/DWjMxArxsiT/"
+    },
+    {
+      "title": "LEGO smart brick at CES",
+      "plays": 20900,
+      "url": "https://www.instagram.com/matt.j.robb/reel/DTKXxFeAizF/"
+    },
+    {
+      "title": "Are they coming for us?",
+      "plays": 13800,
+      "url": "https://www.instagram.com/matt.j.robb/reel/DTNOwfKAkAq/"
+    },
+    {
+      "title": "S26 Ultra night zoom",
+      "plays": 13300,
+      "url": "https://www.instagram.com/matt.j.robb/reel/DVQQc-6DkJL/"
+    },
+    {
+      "title": "CES energy",
+      "plays": 13000,
+      "url": "https://www.instagram.com/matt.j.robb/reel/DTXL1Qqjq_m/"
+    },
+    {
+      "title": "Pixel 11 Pro XL Obsidian",
+      "plays": 12700,
+      "url": "https://www.instagram.com/matt.j.robb/reel/Db-TUkSCJH4/"
+    },
+    {
+      "title": "Galaxy Z Fold 8 unboxing",
+      "plays": 11500,
+      "url": "https://www.instagram.com/matt.j.robb/reel/DbP3XYQier4/"
+    },
+    {
+      "title": "Segway electric dirt bike",
+      "plays": 11400,
+      "url": "https://www.instagram.com/matt.j.robb/reel/DTWL1m_DkF_/"
+    },
+    {
+      "title": "Pixel 10A",
+      "plays": 9830,
+      "url": "https://www.instagram.com/matt.j.robb/reel/DVwza-PgoJ_/"
+    }
+  ]
+}
